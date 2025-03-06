@@ -1,4 +1,4 @@
-# EEG Sinyal İşleme ve Artefakt Temizleme
+## EEG Sinyal İşleme ve Artefakt Temizleme
 
 Bu proje, EEG (Elektroensefalogram) verilerini işlemek ve temizlemek amacıyla bir dizi sinyal işleme tekniğini içerir. Proje, EEG verilerindeki gürültü ve artefaktları temizlemek için çeşitli filtreleme ve istatistiksel yöntemler kullanır. Ayrıca, verilerin görselleştirilmesi ve temizlenmiş sinyallerin analizine olanak tanır.
 
@@ -25,6 +25,10 @@ Bu proje, EEG (Elektroensefalogram) verilerini işlemek ve temizlemek amacıyla 
 4. **ICA (Bağımsız Bileşen Analizi)**: ICA, EEG sinyallerindeki artefaktları temizler ve bağımsız bileşenleri ayırır.
 
 5. **Görselleştirme**: Ham sinyal ile temizlenmiş sinyal karşılaştırmalı olarak çizilir.
+
+## Kullanılan Veri Seti
+
+Bu projede kullanılan EEG veri seti [Bonn Epilepsy Database](https://www.ukbonn.de/epileptologie/arbeitsgruppen/ag-lehnertz-neurophysik/downloads/) adresinden temin edilmiştir.
 
 ## Gereksinimler
 
